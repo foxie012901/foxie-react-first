@@ -11,9 +11,7 @@ class App extends React.Component {
             <div>
                 <div>我是App根组件</div>
 
-                <Form.Button>this is Button</Form.Button>
-
-
+                <Form.Button>this is BTN</Form.Button>
                 <div>
                     <Container>
                         <p>
